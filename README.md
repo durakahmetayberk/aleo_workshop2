@@ -68,3 +68,4 @@ if len(pub_outs)>0:
 
 APIs are located in `vanguard/aleo/common.py` and `vanguard/aleo/detectors/*`, we are working on adding more of them as well as a documentation. Stay tuned!
 # aleo_workshop2
+# aleo_workshop2
